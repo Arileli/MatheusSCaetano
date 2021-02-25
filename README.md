@@ -8,7 +8,7 @@
 - 🚀 Bootcamp Generation Brasil - Estudando para me tornar um Desenvolvedor Web Full Stack 
 
 ## 🔧 Technologies & Tools
-<img src="https://img.shields.io/badge/Back End-Java-f55247"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
 
 <p align="center">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark" />

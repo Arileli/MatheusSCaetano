@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img align="right" width="450px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
+  <img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 </h1>
 
 # Hi there, I'm Matheus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
@@ -10,7 +10,9 @@
 ## 🔧 Technologies & Tools
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
 
-<p align="rigth">
+<p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark" />
+</p>
+<p>
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 </p>

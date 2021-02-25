@@ -1,6 +1,5 @@
-<h1 align="right">
-<img align="center" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
-</h1>
+<img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
+
 
 # Hi there, I'm Matheus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 💻 Graduando Análise e Densenvolvimento de Sistemas

@@ -12,14 +12,6 @@
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 
- <h4></b>-Tools</b></h4>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
-
-
-
 <p align="right">
 <img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark"/>
 </p>

@@ -5,11 +5,11 @@
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
 
- <h3></b>-Languages</b></h3>
+ <h3></b>Languages</b></h3>
  <p>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <p>
  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&layout=compact&theme=vision-friendly-dark" />

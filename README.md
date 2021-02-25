@@ -12,11 +12,10 @@
 
 <p>
  <h4></b>Languages</b></h4>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
+<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 </p>
 
 </p>
@@ -28,10 +27,3 @@
 <p align="right">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 </p>
-
-
-
-
-
-
-

@@ -13,4 +13,4 @@
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <p>
  <img align="left"  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&layout=compact&theme=vision-friendly-dark" />
- <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&hide=stars&layout=compact&theme=vision-friendly-dark" />
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />

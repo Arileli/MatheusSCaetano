@@ -1,4 +1,4 @@
-<h1 align="rigth">
+<h1 align="right">
 <img align="center" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 </h1>
 

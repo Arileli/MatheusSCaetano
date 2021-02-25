@@ -5,8 +5,8 @@
 # Hi there, I'm Matheus.! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
-- 🚀 Estudando para me tornar uma Desenvolvedor Web Full Stack
-- 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusSCaetano)](https://github.com/MatheusSCaetano) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-scaetano/)](https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-scaetano/)
+- 🚀 Estudando para me tornar um Desenvolvedor Web Full Stack - Bootcamp Generation Brasil
+- 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusSCaetano)](https://github.com/MatheusSCaetano) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheus-scaetano/)](https://www.linkedin.com/in/matheus-scaetano/)
 
 ## 🔧 Technologies & Tools
 <img src="https://img.shields.io/badge/Back End-Java-f55247"/> 

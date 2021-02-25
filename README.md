@@ -1,7 +1,7 @@
 <img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 
 
-# Hi there, I'm Matheus! <img src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blm.svg" width="30px">
+# Hi there, I'm Matheus! <img src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blm.svg" width="40px">
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
 - <a href="https://www.linkedin.com/in/matheus-scaetano/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>

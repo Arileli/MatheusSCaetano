@@ -7,9 +7,11 @@
 
 
  <h4></b>-Languages</b></h4>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
-<code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
+ <p>
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
+<p>
 
  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />

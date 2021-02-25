@@ -10,7 +10,7 @@
 ## 🔧 Technologies & Tools
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
 
-<p align="center">
+<p align="rigth">
   <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark" />
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 </p>

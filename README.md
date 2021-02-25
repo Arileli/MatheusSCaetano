@@ -4,7 +4,9 @@
 # Hi there, I'm Matheus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
-
+-💌 Social networks: ⤵️
+  <a href="https://www.linkedin.com/in/matheus-scaetano/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+ 
  <h3></b>Languages</b></h3>
  <p>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>

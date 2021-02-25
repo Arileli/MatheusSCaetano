@@ -1,4 +1,4 @@
-<img align="center" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
+<img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 
 <div align="left">
  
@@ -7,13 +7,13 @@
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
 
 
- <h4></b>Languages</b></h4>
+ <h4></b>-Languages</b></h4>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 
- <h4></b>Tools</b></h4>
+ <h4></b>-Tools</b></h4>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 

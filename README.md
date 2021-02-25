@@ -1,8 +1,6 @@
-<p align="right">
-<h1>
+
   <img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
-</h1>
-</p>
+
 
 <p align="left">
   <h1>
@@ -21,10 +19,10 @@
 
 </p>
 
-<p align="right">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark" />
-</p>
 
-<p align="right">
-  <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
-</p>
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark" />
+
+
+
+  <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+

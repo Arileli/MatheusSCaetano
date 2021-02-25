@@ -1,9 +1,8 @@
 <img align="center" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 
 <div align="left">
-  <h1>
+ 
 # Hi there, I'm Matheus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-</h1>
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
 - 🚀 Bootcamp Generation Brasil - Desenvolvedor Web Full Stack 
 

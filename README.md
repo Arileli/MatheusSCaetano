@@ -2,16 +2,14 @@
   <img src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 </h1>
 
-# Hello, Hi there, I'm Matheus.! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+# Hi there, I'm Matheus.! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-- 💻 Graduado em engenharia de produção
-- 🚀 Estudando para me tornar uma dev fullstack
-- 💁 Interessada em ajudar mulheres a ingressarem na área de tecnologia e desenvolvimento
-- 💬 Pode me chamar para conversar sobre tecnologia, desenvolvimento fullstack, experiências e melhores séries para fazer maratona 
-- 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/karinecasant)](https://github.com/karinecasant) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vittoria-borotto/)](https://www.linkedin.com/in/karine-santos-8023b6127/)
+- 💻 Graduando Análise e Densenvolvimento de Sistemas
+- 🚀 Estudando para me tornar uma Desenvolvedor Web Full Stack
+- 📫 Você pode me encontrar nas redes:[![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/MatheusSCaetano)](https://github.com/MatheusSCaetano) [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-scaetano/)](https://www.linkedin.com/in/https://www.linkedin.com/in/matheus-scaetano/)
 
 ## 🔧 Technologies & Tools
-<img src="https://img.shields.io/badge/Back End-Java-f55247"/> <img src="https://img.shields.io/badge/Angular-developer"/> <img src="https://img.shields.io/badge/dev-fullstack-orange"/> <img src="https://img.shields.io/badge/dev-javascript-yellow"/> <img src="https://img.shields.io/badge/learning-docker-blue"/>
+<img src="https://img.shields.io/badge/Back End-Java-f55247"/> 
 
 ## &#x1f4c8; GitHub Stats
 

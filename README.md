@@ -9,7 +9,7 @@
  <h3></b>Languages</b></h3>
  <p>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
-<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://www.google.com/search?q=spring+logo&client=opera-gx&hs=X82&sxsrf=ALeKk030I9nCJwPk-cmydlUwQwL9SDm8TA:1614273236167&source=lnms&tbm=isch&sa=X&ved=2ahUKEwignL-2xIXvAhWWJLkGHdPwCA0Q_AUoAXoECBAQAw&biw=1495&bih=723#imgrc=Et3ZqtN_7cn0wM"/> 
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg"/> 
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/>
 <p>

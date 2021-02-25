@@ -1,5 +1,5 @@
 
-<img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
+<img align="center" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
 
 
 <div style="display: flex" align="left">

@@ -20,10 +20,9 @@
 
 
 
-<p>
+<p align="right">
 <img  width="400px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSCaetano&hide=html,css&layout=compact&theme=vision-friendly-dark"/>
 </p>
-
-<p>
+<p align="right">
   <img width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
 </p>

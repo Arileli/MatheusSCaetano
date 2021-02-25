@@ -1,5 +1,5 @@
 <img align="right" width="400px" src="https://github.com/MatheusSCaetano/MatheusSCaetano/blob/main/blackpanther.gif">
-<img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />
+
 
 # Hi there, I'm Matheus! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 - 💻 Graduando Análise e Densenvolvimento de Sistemas
@@ -18,4 +18,4 @@
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code> 
 <code><img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/></code>
 
- 
+ <img align="right" width="400px" src="https://github-readme-stats.vercel.app/api?username=MatheusSCaetano&show_icons=true,css&layout=compact&theme=vision-friendly-dark" />

@@ -13,6 +13,10 @@
 <p>
  <h4></b>Languages</b></h4>
 <img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
+<img width="40px" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg"/> 
 </p>
 
 </p>
